@@ -1,18 +1,12 @@
-# TaskFlow Application - Task 2 Submission
+# TaskFlow Application 
 
-## 🎯 Project Overview
-
-**Candidate Role:** Backend Developer  
-**Topics Implemented:** 1, 2, 4  
-**Submission:** Freshers Recruitment 2025 - Task 2
-
-This is a comprehensive full-stack task management application built as part of the Freshers Recruitment 2025 program. The application demonstrates proficiency in backend development, RESTful APIs, JWT authentication, and real-time WebSocket communication.
+This is a comprehensive full-stack task management application built as part of a Side Project. The application demonstrates proficiency in backend development, RESTful APIs, JWT authentication, and real-time WebSocket communication.
 
 ---
 
-## ✅ Topics Implemented
+## ✅ Features Implemented
 
-### Topic 1: REST API with CRUD Operations ✅
+### REST API with CRUD Operations ✅
 - Complete RESTful API architecture using Node.js + Express
 - Full CRUD operations for task management
 - User-specific resource management
@@ -20,7 +14,7 @@ This is a comprehensive full-stack task management application built as part of 
 - Appropriate HTTP status codes
 - Error handling and validation
 
-### Topic 2: JWT-based Authentication ✅
+### JWT-based Authentication ✅
 - Secure token-based authentication system
 - User registration endpoint with password hashing (bcrypt)
 - User login endpoint with JWT token generation
@@ -28,7 +22,7 @@ This is a comprehensive full-stack task management application built as part of 
 - Token verification and validation
 - 7-day token expiry management
 
-### Topic 4: Real-time WebSocket Chat ✅
+### Real-time WebSocket Chat ✅
 - Socket.io integration for bidirectional communication
 - Room-based chat functionality
 - Instant message delivery
@@ -434,79 +428,6 @@ PORT=8002
 JWT_SECRET=your_secure_secret_key_here
 ```
 
----
 
-## 💡 Key Learning Outcomes
 
-1. ✅ **RESTful API Design**: Mastered HTTP methods, status codes, resource naming
-2. ✅ **JWT Authentication**: Deep understanding of token generation, verification, middleware
-3. ✅ **WebSocket Communication**: Practical implementation of real-time events and broadcasting
-4. ✅ **Database Design**: Sequelize ORM, models, relationships, migrations
-5. ✅ **Full-Stack Integration**: Frontend-backend API contracts and communication
-6. ✅ **Security Best Practices**: Password hashing, token management, validation
-7. ✅ **Modern JavaScript**: Express.js, async/await, middleware patterns
 
----
-
-## 🎥 Video Walkthrough
-
-A comprehensive 15-20 minute video demonstration covering:
-- Application features and functionality
-- Code-level implementation details
-- Topic 1: REST API with CRUD operations
-- Topic 2: JWT authentication flow
-- Topic 4: Real-time WebSocket chat
-- Database schema and relationships
-- Security implementations
-
----
-
-## 📦 Deliverables
-
-1. ✅ **Source Code**: Complete GitHub repository
-2. ✅ **PowerPoint Presentation**: Comprehensive project overview (21 slides)
-3. ✅ **Video Recording**: 15-20 min walkthrough
-4. ✅ **README Documentation**: Setup and API documentation
-5. ✅ **Testing Results**: API and integration test results
-
----
-
-## 🔗 Links
-
-- **GitHub Repository**: [Insert your repository URL]
-- **Video Recording**: [Insert video URL]
-- **Live Demo**: [If deployed, insert URL]
-
----
-
-## 👨‍💻 Candidate Information
-
-**Name**: [Your Name]  
-**Role**: Backend Developer  
-**Topics**: 1, 2, 4  
-**Submission Date**: October 24, 2025  
-**Email**: [Your Email]
-
----
-
-## 📝 Notes
-
-This project demonstrates a complete understanding of backend development fundamentals including:
-- RESTful API architecture and best practices
-- Secure authentication mechanisms (JWT + bcrypt)
-- Real-time bidirectional communication (WebSocket)
-- Database design and ORM usage
-- Full-stack application development
-- Security and data isolation
-
-The application is production-ready with proper error handling, validation, and security measures in place.
-
----
-
-## 🙏 Acknowledgments
-
-This project was developed as part of the Freshers Recruitment 2025 program. Special thanks to the evaluation panel for this opportunity to showcase backend development skills.
-
----
-
-**Submission completed for Task 2 - Backend Developer Role** ✅
